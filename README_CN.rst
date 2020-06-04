@@ -1,4 +1,4 @@
-异常检测学习资源（Anomaly Detection Learning Resources）
+异常检测学习资源（Anomaly Detection Learning Resources）  hh
 ====================================================
 
 .. image:: https://img.shields.io/github/stars/yzhao062/anomaly-detection-resources.svg
